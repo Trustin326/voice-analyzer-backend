@@ -2,3 +2,6 @@ flask
 resemblyzer
 scikit-learn
 torch
+openai-whisper
+ffmpeg-python
+gunicorn

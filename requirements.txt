@@ -1,0 +1,4 @@
+flask
+resemblyzer
+scikit-learn
+torch

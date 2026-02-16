@@ -1,7 +1,8 @@
 flask
+torch
+pyannote.audio
 resemblyzer
 scikit-learn
-torch
 openai-whisper
-ffmpeg-python
+reportlab
 gunicorn
